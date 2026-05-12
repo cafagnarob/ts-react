@@ -10,7 +10,6 @@ export interface IarticleObj {
   updated_at: string
   featured: boolean
   launches: Launch[]
-  events: any[]
 }
 
 export interface Author {

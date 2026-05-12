@@ -42,7 +42,7 @@ const ArticleDetails =()=>{
 
 
 return(
-    <Container className="my-4">
+    <Container className="my-4 text-center" fluid={true} >
             <h1>{articleD.title}</h1>
 
             <img
